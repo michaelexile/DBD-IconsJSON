@@ -2,6 +2,11 @@
 
 A comprehensive JSON database for Dead by Daylight icon theming projects. This repository provides structured data for DBD icons, including their properties, rarities, and locations.
 
+## JSON Data
+
+The JSON data is available at: [DBD Item Addons JSON](https://michaelexile.github.io/DBD-IconsJSON/dbdItemAddons.json)
+
+
 ## Features
 
 - **Icon Metadata**: Includes name, rarity, and folder location for each icon
