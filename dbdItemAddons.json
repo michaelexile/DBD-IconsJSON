@@ -5857,5 +5857,146 @@
       "folder": "ItemAddons/Zodiac/",
       "rarity": "ultra_rare"
     }
+  },
+  {
+    "name": "T_UI_iconAddon_HelpWantedAd.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_GreasyPaperPlate.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_RestaurantMenu.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_RottenPizza.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_PartyHat.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_RippedCurtain.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_OfficePhone.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_SecurityGuardsBadge.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_Streamers.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_BonniesGuitarStrings.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_FoxyHook.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_PurpleGuyDrawing.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_ChicasBib.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_FreddysHat.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_CelebratePoster.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_LootBag.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_EndoCPU.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_AccessPanel.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_FazCoin.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "ultra_rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_IridescentRemnant.png",
+    "details": {
+      "folder": "ItemAddons/Ketchup/",
+      "rarity": "ultra_rare"
+    }
   }
+
 ]
