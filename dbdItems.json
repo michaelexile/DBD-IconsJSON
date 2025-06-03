@@ -1,0 +1,233 @@
+[
+  {
+    "name": "iconItems_toolboxWornOut.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_rundownAidKit.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_chineseFirecracker.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconItems_firstAidKit.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconItems_flashlight.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconItems_toolbox.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconItems_toolboxCommodious.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconItems_flashlightSport.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconItems_map.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconItems_brokenKey.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconItems_toolboxMechanics.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconItems_medkit.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconItems_toolboxAlexs.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconItems_rangersAidKit.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconItems_flashlightUtility.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconItems_dullKey.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconItems_toolboxEngineers.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconItems_key.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "ultra_rare"
+    }
+  },
+  {
+    "name": "iconItems_rainbowMap.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "ultra_rare"
+    }
+  },
+  {
+    "name": "iconItems_flashlight_anniversary2020.png",
+    "details": {
+      "folder": "Items/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_flashlight_anniversary2022.png",
+    "details": {
+      "folder": "Items/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_medkit_anniversary2020.png",
+    "details": {
+      "folder": "Items/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_medkit_anniversary2022.png",
+    "details": {
+      "folder": "Items/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_partyPopper.png",
+    "details": {
+      "folder": "Items/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_toolbox_anniversary2021.png",
+    "details": {
+      "folder": "Items/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_toolbox_anniversary2022.png",
+    "details": {
+      "folder": "Items/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_flashlightHalloween.png",
+    "details": {
+      "folder": "Items/Halloween/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_medkitHalloween.png",
+    "details": {
+      "folder": "Items/Halloween/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_voidCrystal.png",
+    "details": {
+      "folder": "Items/Halloween/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_toolboxLunar.png",
+    "details": {
+      "folder": "Items/LunarEvent/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_fireflyLantern.png",
+    "details": {
+      "folder": "Items/Modifier/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_bloodMap.png",
+    "details": {
+      "folder": "Items/Spring/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_winterEventFirecracker.png",
+    "details": {
+      "folder": "Items/WinterEvent/",
+      "rarity": "event"
+    }
+  }
+]
