@@ -17,7 +17,7 @@
     "name": "iconItems_chineseFirecracker.png",
     "details": {
       "folder": "Items/",
-      "rarity": "rare"
+      "rarity": "event"
     }
   },
   {
@@ -38,7 +38,7 @@
     "name": "iconItems_toolbox.png",
     "details": {
       "folder": "Items/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
