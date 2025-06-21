@@ -434,6 +434,13 @@
       }
     },
     {
+      "name": "T_UI_iconsFavors_9thAnniversary.png",
+      "details": {
+        "folder": "Favors/Anniversary/",
+        "rarity": "event"
+      }
+    },
+    {
       "name": "iconFavors_gruesomeGateau.png",
       "details": {
         "folder": "Favors/Anniversary/",
