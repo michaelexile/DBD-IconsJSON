@@ -574,6 +574,13 @@
       }
     },
     {
+      "name": "T_UI_iconsFavors_shroudOfVanishing.png",
+      "details": {
+        "folder": "Favors/Ketchup/",
+        "rarity": "uncommon"
+      }
+    },
+    {
       "name": "iconFavors_redMoneyPacket.png",
       "details": {
         "folder": "Favors/LunarNewYear/",
