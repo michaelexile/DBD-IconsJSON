@@ -24,14 +24,14 @@
     "name": "iconItems_firstAidKit.png",
     "details": {
       "folder": "Items/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
     "name": "iconItems_flashlight.png",
     "details": {
       "folder": "Items/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
@@ -45,42 +45,42 @@
     "name": "iconItems_toolboxCommodious.png",
     "details": {
       "folder": "Items/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
     "name": "iconItems_flashlightSport.png",
     "details": {
       "folder": "Items/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
     "name": "iconItems_map.png",
     "details": {
       "folder": "Items/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
     "name": "iconItems_brokenKey.png",
     "details": {
       "folder": "Items/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
     "name": "iconItems_toolboxMechanics.png",
     "details": {
       "folder": "Items/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
     "name": "iconItems_medkit.png",
     "details": {
       "folder": "Items/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
