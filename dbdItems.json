@@ -229,5 +229,34 @@
       "folder": "Items/WinterEvent/",
       "rarity": "event"
     }
+  },
+  {
+    "name": "T_UI_iconItems_apprenticesFogVial.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_iconItems_artisansFogVial.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "T_UI_iconItems_CrypticMap.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "T_UI_iconItems_vigosFogVial.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "rare"
+    }
   }
+  
 ]

@@ -5997,6 +5997,97 @@
       "folder": "ItemAddons/Ketchup/",
       "rarity": "ultra_rare"
     }
+  },
+  {
+    "name": "T_UI_iconAddon_BatteredTape.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_BraidedBauble.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_CrimsonStamp.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "ultra_rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_GlowingInk.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_GnarledCompass.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_mushroomFormula.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_oilySap.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_potentExtract.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "ultra_rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_reactiveCompound.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_SharpenedFlint.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_ShrillWhistle.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "T_UI_iconAddon_volcanicStone.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_iconIAddon_FriendshipCharm.png",
+    "details": {
+      "folder": "ItemAddons/Lasagna/",
+      "rarity": "common"
+    }
   }
 
 ]
