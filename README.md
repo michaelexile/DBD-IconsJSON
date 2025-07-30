@@ -11,7 +11,7 @@ The JSON data is available at: [DBD Item Addons JSON](https://michaelexile.githu
 
 - **Icon Metadata**: Includes name, rarity, and folder location for each icon
 - **Optimized Search**: Structured for efficient file/icon name searching
-- **DLC Support**: Includes all DLC content up to Five Nights at Freddy's (Updated 5/31/2025)
+- **DLC Support**: Includes all DLC content up to The Walking Dead (Updated 7/29/2025)
 - **Rarity System**: Supports all rarity levels (Common, Uncommon, Rare, Very Rare, Ultra Rare, Event)
 
 ## Usage
