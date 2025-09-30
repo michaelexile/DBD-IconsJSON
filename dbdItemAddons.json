@@ -6121,77 +6121,70 @@
     "name": "T_UI_iconAddon_DulledKnife.png",
     "details": {
       "folder": "ItemAddons/Maple/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
     "name": "T_UI_iconAddon_FramedNewspaper.png",
     "details": {
       "folder": "ItemAddons/Maple/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
     "name": "T_UI_iconAddon_JanjirasHand.png",
     "details": {
       "folder": "ItemAddons/Maple/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
     "name": "T_UI_iconAddon_SpottedHandkerchief.png",
     "details": {
       "folder": "ItemAddons/Maple/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
     "name": "T_UI_iconAddon_TheaterBinoculars.png",
     "details": {
       "folder": "ItemAddons/Maple/",
-      "rarity": "uncommon"
+      "rarity": "rare"
     }
   },
   {
     "name": "T_UI_iconAddon_ChunkOfMalai.png",
     "details": {
       "folder": "ItemAddons/Maple/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
     "name": "T_UI_iconAddon_CrumpledSheetMusic.png",
     "details": {
       "folder": "ItemAddons/Maple/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
     "name": "T_UI_iconAddon_DefectiveMetronome.png",
     "details": {
       "folder": "ItemAddons/Maple/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
     "name": "T_UI_iconAddon_PigsEye.png",
     "details": {
       "folder": "ItemAddons/Maple/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
     "name": "T_UI_iconAddon_WrigglingParasite.png",
     "details": {
       "folder": "ItemAddons/Maple/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "T_UI_iconAddon_WrigglingParasite.png",
-    "details": {
-      "folder": "ItemAddons/Maple/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
