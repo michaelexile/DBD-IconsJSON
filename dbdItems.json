@@ -59,14 +59,14 @@
     "name": "iconItems_map.png",
     "details": {
       "folder": "Items/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
     "name": "iconItems_brokenKey.png",
     "details": {
       "folder": "Items/",
-      "rarity": "rare"
+      "rarity": "common"
     }
   },
   {
@@ -108,7 +108,7 @@
     "name": "iconItems_dullKey.png",
     "details": {
       "folder": "Items/",
-      "rarity": "very_rare"
+      "rarity": "uncommon"
     }
   },
   {
@@ -122,14 +122,14 @@
     "name": "iconItems_key.png",
     "details": {
       "folder": "Items/",
-      "rarity": "ultra_rare"
+      "rarity": "rare"
     }
   },
   {
     "name": "iconItems_rainbowMap.png",
     "details": {
       "folder": "Items/",
-      "rarity": "ultra_rare"
+      "rarity": "rare"
     }
   },
   {
@@ -258,5 +258,4 @@
       "rarity": "rare"
     }
   }
-  
 ]
