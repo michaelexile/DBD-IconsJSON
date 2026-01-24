@@ -850,7 +850,7 @@
     "name": "iconAddon_coxcombedClapper.png",
     "details": {
       "folder": "ItemAddons/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -878,7 +878,7 @@
     "name": "iconAddon_bloodyCoil.png",
     "details": {
       "folder": "ItemAddons/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -892,7 +892,7 @@
     "name": "iconAddon_brandNewPart.png",
     "details": {
       "folder": "ItemAddons/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -906,7 +906,7 @@
     "name": "iconAddon_gelDressings.png",
     "details": {
       "folder": "ItemAddons/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -1046,14 +1046,14 @@
     "name": "iconAddon_capturedByTheDark.png",
     "details": {
       "folder": "ItemAddons/Applepie/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
     "name": "iconAddon_iridescentOSSReport.png",
     "details": {
       "folder": "ItemAddons/Applepie/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -1193,7 +1193,7 @@
     "name": "iconAddon_iridescentPendant.png",
     "details": {
       "folder": "ItemAddons/Aurora/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -1235,7 +1235,7 @@
     "name": "iconAddon_iridescentFlesh.png",
     "details": {
       "folder": "ItemAddons/Cannibal/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -1375,7 +1375,7 @@
     "name": "iconAddon_IridescentBookOfVileDarkness.png",
     "details": {
       "folder": "ItemAddons/Churros/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -1928,14 +1928,14 @@
     "name": "iconAddon_iridescentQueen.png",
     "details": {
       "folder": "ItemAddons/DLC4/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
     "name": "iconAddon_iridescentKing.png",
     "details": {
       "folder": "ItemAddons/DLC4/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -2068,7 +2068,7 @@
     "name": "iconAddon_iridescentHead.png",
     "details": {
       "folder": "ItemAddons/DLC5/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -2222,7 +2222,7 @@
     "name": "iconAddon_AlucardsShield.png",
     "details": {
       "folder": "ItemAddons/Eclair/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -2445,8 +2445,8 @@
   {
     "name": "iconAddon_jumpRope.png",
     "details": {
-      "folder": "ItemAddons/England/",
-      "rarity": "rare"
+      "folder": "ItemAddons/Yerkes/",
+      "rarity": "uncommon"
     }
   },
   {
@@ -2509,7 +2509,7 @@
     "name": "iconAddon_blackBox.png",
     "details": {
       "folder": "ItemAddons/England/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -2642,7 +2642,7 @@
     "name": "iconAddon_amandasLetter.png",
     "details": {
       "folder": "ItemAddons/Finland/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -2922,14 +2922,14 @@
     "name": "iconAddon_iridescentLamentConfiguration.png",
     "details": {
       "folder": "ItemAddons/Gemini/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
     "name": "iconAddon_engineersFang.png",
     "details": {
       "folder": "ItemAddons/Gemini/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -3622,7 +3622,7 @@
     "name": "iconAddon_iridescentButton.png",
     "details": {
       "folder": "ItemAddons/Kenya/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -3909,7 +3909,7 @@
     "name": "iconAddon_blackIncense.png",
     "details": {
       "folder": "ItemAddons/Mali/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -4182,7 +4182,7 @@
     "name": "iconAddon_caughtOnTape.png",
     "details": {
       "folder": "ItemAddons/Oman/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -5008,14 +5008,14 @@
     "name": "iconAddon_hellshireIron.png",
     "details": {
       "folder": "ItemAddons/Ukraine/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
     "name": "iconAddon_iridescentCoin.png",
     "details": {
       "folder": "ItemAddons/Ukraine/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -5148,7 +5148,7 @@
     "name": "iconAddon_deniedRequisitionForm.png",
     "details": {
       "folder": "ItemAddons/Umbra/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -5428,14 +5428,14 @@
     "name": "iconAddon_improvisedCattleProd.png",
     "details": {
       "folder": "ItemAddons/Wormhole/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
     "name": "iconAddon_acidicBlood.png",
     "details": {
       "folder": "ItemAddons/Wormhole/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -5617,14 +5617,14 @@
     "name": "iconAddon_compoundThirtyThree.png",
     "details": {
       "folder": "ItemAddons/Yemen/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
     "name": "iconAddon_iridescentBlightTag.png",
     "details": {
       "folder": "ItemAddons/Yemen/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -5653,13 +5653,6 @@
     "details": {
       "folder": "ItemAddons/Yerkes/",
       "rarity": "common"
-    }
-  },
-  {
-    "name": "iconAddon_jumpRope.png",
-    "details": {
-      "folder": "ItemAddons/Yerkes/",
-      "rarity": "uncommon"
     }
   },
   {
@@ -5757,14 +5750,14 @@
     "name": "iconAddon_iridescentAmulet.png",
     "details": {
       "folder": "ItemAddons/Yerkes/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
     "name": "iconAddon_hardHat.png",
     "details": {
       "folder": "ItemAddons/Yerkes/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -5855,7 +5848,7 @@
     "name": "iconAddon_iridescentEngravings.png",
     "details": {
       "folder": "ItemAddons/Zodiac/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -6227,6 +6220,692 @@
     "details": {
       "folder": "ItemAddons/Maple/",
       "rarity": "ultra_rare"
+    }
+  },
+  {
+    "name": "iconAddon_blondHair.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_chocloCorn.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_creaturesBone.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_adiValenteIssue1.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_briansIntestine.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_caffeineTablets.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_berusToxin.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_blindWarrior-Soot.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_cabinSign.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "unknown_QuestionMark.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_cerealRations.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_AnteikuApron.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_brokenTiara.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_coldSteelManacles.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_barleyMeal.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_clumpOfHair.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_burntLetters.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_blink-Mud.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_cagedHeartShoes.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_chilli.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_4-coilSpringKit.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_bloodyBlackHood.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_callToArms.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_catatonicBoysTreasure.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_blessedApple.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_battleAxeHead.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_airFreshener.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_cinchStraps.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_adaptiveLighting.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_automaticDrawing.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_belayingPins.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_coffeeGrounds.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_chaliceGold.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_allSeeing-Mud.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_blindWarrior-Mud.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_bloodStainedHandkerchief.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_brokenChain.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_chunkOfMalai.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_allSeeing-White.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconItems_key.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconItems_map.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_brownNoiseGenerator.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_chainMailFragment.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_darkestInk.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_brokenHilt.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_begrimedChains.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_bloodyFingernails.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_blink-White.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_charcoalStick.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_blindWarrior-White.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_bloodyHairBrooch.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_disciplineClassIII.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_dirtyUwabaki.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_brokenDoll.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_eggGold.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_destroyedPillow.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_bloodyBoa.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_AmonsNecktie.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_AogiriTreeRobe.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_ChicasBib.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_BonniesGuitarStrings.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_dulledKnife.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_boatKey.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_diamondCufflinks.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_cutThruUSingle.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_blindWarrior-Blood.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_allSeeing-Blood.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_drop-LegKnifeSheath.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_award-winningChilli.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_distortedPhoto.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_advancedMovementPrediction.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_bffs.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_disciplineCartersNotes.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_blacksmithsHammer.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_CCGIDCard.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_CelebratePoster.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_AccessPanel.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_anti-haemorrhagicSyringe.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_fumingMixTape.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_blindWarrior-Spirit.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_allSeeing-Spirit.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_carburettorTuningGuide.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_iridescentCrystalShard.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_iridescentPhotocard.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_fragrantTuftOfHair.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_fathersGlasses.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_expiredBatteries.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_iridescentCompanyBanner.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_iridescentFamilyCrest.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_gardenOfRot.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_deathThroesCompilation.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_iridescentFeather.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_iridescentEyePatch.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_FazCoin.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_chickenHead.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconAddon_brokenBulb.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconAddon_refinedSerum.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconAddon_blightSerum.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "event"
     }
   }
 ]

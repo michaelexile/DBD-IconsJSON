@@ -1,689 +1,1143 @@
 [
-    {
-      "name": "iconFavors_bogLaurelSachet.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_tanagerWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_faintReagent.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_spottedOwlWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_clearReagent.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_primroseBlossomSachet.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_shrikeWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_ravenWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_chalkPouch.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_crispleafAmaranthSachet.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_sweetWilliamSachet.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_creamChalkPouch.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_devoutShrikeWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_freshCrispleafAmaranth.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_shroudOfSeparation.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "very_rare"
-      }
-    },
-    {
-      "name": "iconFavors_vigosShroud.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_sealedEnvelope.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_scratchedCoin.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_tarnishedCoin.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_freshSweetWilliam.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_devoutSpottedOwlWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_devoutRavenWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_devoutTanagerWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_momentoMoriCypress.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_moldyOak.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_hazyReagent.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_saltPouch.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_freshBogLaurel.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_shroudOfUnion.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_hollowShell.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_freshPrimroseBlossom.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_ardentTanagerWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_fragrantSweetWilliam.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_ivoryChalkPouch.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_fragrantPrimroseBlossom.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_blackSaltStatuette.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_macmilliansPhalanxBone.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_ardentSpottedOwlWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_ardentRavenWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_ardentShrikeWreath.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_fragrantCrispleafAmaranth.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_azarovsKey.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_fragrantBogLaurel.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_rottenOak.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_heartLocket.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_charredWeddingPhotograph.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_momentoMoriIvory.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_boundEnvelope.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_cutCoin.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "very_rare"
-      }
-    },
-    {
-      "name": "iconFavors_murkyReagent.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "very_rare"
-      }
-    },
-    {
-      "name": "iconFavors_wardWhite.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "very_rare"
-      }
-    },
-    {
-      "name": "iconFavors_petrifiedOak.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "very_rare"
-      }
-    },
-    {
-      "name": "iconFavors_jarOfSaltyLips.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "very_rare"
-      }
-    },
-    {
-      "name": "iconFavors_wardBlack.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "very_rare"
-      }
-    },
-    {
-      "name": "iconFavors_putridOak.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "very_rare"
-      }
-    },
-    {
-      "name": "iconFavors_shroudOfBinding.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "very_rare"
-      }
-    },
-    {
-      "name": "iconFavors_shinyCoin.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "very_rare"
-      }
-    },
-    {
-      "name": "iconFavors_momentoMoriEbony.png",
-      "details": {
-        "folder": "Favors/",
-        "rarity": "ultra_rare"
-      }
-    },
-    {
-      "name": "iconFavors_4thAnniversary.png",
-      "details": {
-        "folder": "Favors/Anniversary/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconsFavors_5thAnniversary.png",
-      "details": {
-        "folder": "Favors/Anniversary/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconsFavors_7thAnniversary.png",
-      "details": {
-        "folder": "Favors/Anniversary/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconsFavors_6thAnniversary.png",
-      "details": {
-        "folder": "Favors/Anniversary/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "T_UI_iconsFavors_9thAnniversary.png",
-      "details": {
-        "folder": "Favors/Anniversary/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconFavors_gruesomeGateau.png",
-      "details": {
-        "folder": "Favors/Anniversary/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconsFavors_8thAnniversary.png",
-      "details": {
-        "folder": "Favors/Anniversary/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconFavors_survivorPudding.png",
-      "details": {
-        "folder": "Favors/Anniversary/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_escapeCake.png",
-      "details": {
-        "folder": "Favors/Anniversary/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_bloodyPartyStreamers.png",
-      "details": {
-        "folder": "Favors/Anniversary/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_strodeRealtyKey.png",
-      "details": {
-        "folder": "Favors/DLC2/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_granmasCookbook.png",
-      "details": {
-        "folder": "Favors/DLC3/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_shatteredGlasses.png",
-      "details": {
-        "folder": "Favors/DLC4/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_theLastMask.png",
-      "details": {
-        "folder": "Favors/DLC5/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconsFavors_RPDBadge.png",
-      "details": {
-        "folder": "Favors/Eclipse/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_thePiedPiper.png",
-      "details": {
-        "folder": "Favors/England/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_jigsawPiece.png",
-      "details": {
-        "folder": "Favors/Finland/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconsFavors_Winter.png",
-      "details": {
-        "folder": "Favors/Gelato/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconFavors_yamaokasCrest.png",
-      "details": {
-        "folder": "Favors/Haiti/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_pustulaPetals.png",
-      "details": {
-        "folder": "Favors/Halloween/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconFavors_CursedSeed.png",
-      "details": {
-        "folder": "Favors/Halloween2021/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconFavors_ArcaneDowsingRod.png",
-      "details": {
-        "folder": "Favors/Halloween2022/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconFavors_crowsEye.png",
-      "details": {
-        "folder": "Favors/Ion/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_damagedPhoto.png",
-      "details": {
-        "folder": "Favors/Kenya/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "T_UI_iconsFavors_shroudOfVanishing.png",
-      "details": {
-        "folder": "Favors/Ketchup/",
-        "rarity": "uncommon"
-      }
-    },
-    {
-      "name": "iconFavors_redMoneyPacket.png",
-      "details": {
-        "folder": "Favors/LunarNewYear/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconFavors_IchorousLoam.png",
-      "details": {
-        "folder": "Favors/Meteor/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_hawkinsNationalLaboratoryID.png",
-      "details": {
-        "folder": "Favors/Qatar/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_BeefTallowMixture.png",
-      "details": {
-        "folder": "Favors/Quantum/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_bloodshotEye.png",
-      "details": {
-        "folder": "Favors/Spring/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_bbqInvitation.png",
-      "details": {
-        "folder": "Favors/Summer/",
-        "rarity": "event"
-      }
-    },
-    {
-      "name": "iconFavors_ShatteredBottle.png",
-      "details": {
-        "folder": "Favors/Ukraine/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_alienFlora.png",
-      "details": {
-        "folder": "Favors/Umbra/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_marysLetter.png",
-      "details": {
-        "folder": "Favors/Wales/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_airlockDoors.png",
-      "details": {
-        "folder": "Favors/Wormhole/",
-        "rarity": "rare"
-      }
-    },
-    {
-      "name": "iconFavors_bloodiedBlueprint.png",
-      "details": {
-        "folder": "Favors/Yemen/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_tornBlueprint.png",
-      "details": {
-        "folder": "Favors/Yemen/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_annotatedBlueprint.png",
-      "details": {
-        "folder": "Favors/Yemen/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_vigosBlueprint.png",
-      "details": {
-        "folder": "Favors/Yemen/",
-        "rarity": "common"
-      }
-    },
-    {
-      "name": "iconFavors_wardSacrificial.png",
-      "details": {
-        "folder": "Favors/Yemen/",
-        "rarity": "common"
-      }
+  {
+    "name": "iconFavors_bogLaurelSachet.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
     }
-  ]
-  
+  },
+  {
+    "name": "iconFavors_tanagerWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_faintReagent.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_spottedOwlWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_clearReagent.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_primroseBlossomSachet.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_shrikeWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_ravenWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_chalkPouch.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_crispleafAmaranthSachet.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_sweetWilliamSachet.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_creamChalkPouch.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_devoutShrikeWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_freshCrispleafAmaranth.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_shroudOfSeparation.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_vigosShroud.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_sealedEnvelope.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_scratchedCoin.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_tarnishedCoin.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_freshSweetWilliam.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_devoutSpottedOwlWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_devoutRavenWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_devoutTanagerWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_momentoMoriCypress.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_moldyOak.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_hazyReagent.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_saltPouch.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_freshBogLaurel.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_shroudOfUnion.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_hollowShell.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_freshPrimroseBlossom.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_ardentTanagerWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_fragrantSweetWilliam.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_ivoryChalkPouch.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_fragrantPrimroseBlossom.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_blackSaltStatuette.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_macmilliansPhalanxBone.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_ardentSpottedOwlWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_ardentRavenWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_ardentShrikeWreath.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_fragrantCrispleafAmaranth.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_azarovsKey.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_fragrantBogLaurel.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_rottenOak.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_heartLocket.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_charredWeddingPhotograph.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_momentoMoriIvory.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_boundEnvelope.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_cutCoin.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_murkyReagent.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_wardWhite.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_petrifiedOak.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_jarOfSaltyLips.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_wardBlack.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_putridOak.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_shroudOfBinding.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_shinyCoin.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_momentoMoriEbony.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "ultra_rare"
+    }
+  },
+  {
+    "name": "iconFavors_4thAnniversary.png",
+    "details": {
+      "folder": "Favors/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconsFavors_5thAnniversary.png",
+    "details": {
+      "folder": "Favors/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconsFavors_7thAnniversary.png",
+    "details": {
+      "folder": "Favors/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconsFavors_6thAnniversary.png",
+    "details": {
+      "folder": "Favors/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "T_UI_iconsFavors_9thAnniversary.png",
+    "details": {
+      "folder": "Favors/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_gruesomeGateau.png",
+    "details": {
+      "folder": "Favors/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconsFavors_8thAnniversary.png",
+    "details": {
+      "folder": "Favors/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_survivorPudding.png",
+    "details": {
+      "folder": "Favors/Anniversary/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_escapeCake.png",
+    "details": {
+      "folder": "Favors/Anniversary/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_bloodyPartyStreamers.png",
+    "details": {
+      "folder": "Favors/Anniversary/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_strodeRealtyKey.png",
+    "details": {
+      "folder": "Favors/DLC2/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_granmasCookbook.png",
+    "details": {
+      "folder": "Favors/DLC3/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_shatteredGlasses.png",
+    "details": {
+      "folder": "Favors/DLC4/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_theLastMask.png",
+    "details": {
+      "folder": "Favors/DLC5/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconsFavors_RPDBadge.png",
+    "details": {
+      "folder": "Favors/Eclipse/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_thePiedPiper.png",
+    "details": {
+      "folder": "Favors/England/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_jigsawPiece.png",
+    "details": {
+      "folder": "Favors/Finland/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconsFavors_Winter.png",
+    "details": {
+      "folder": "Favors/Gelato/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_yamaokasCrest.png",
+    "details": {
+      "folder": "Favors/Haiti/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_pustulaPetals.png",
+    "details": {
+      "folder": "Favors/Halloween/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_CursedSeed.png",
+    "details": {
+      "folder": "Favors/Halloween2021/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_ArcaneDowsingRod.png",
+    "details": {
+      "folder": "Favors/Halloween2022/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_crowsEye.png",
+    "details": {
+      "folder": "Favors/Ion/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_damagedPhoto.png",
+    "details": {
+      "folder": "Favors/Kenya/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "T_UI_iconsFavors_shroudOfVanishing.png",
+    "details": {
+      "folder": "Favors/Ketchup/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_redMoneyPacket.png",
+    "details": {
+      "folder": "Favors/LunarNewYear/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_IchorousLoam.png",
+    "details": {
+      "folder": "Favors/Meteor/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_hawkinsNationalLaboratoryID.png",
+    "details": {
+      "folder": "Favors/Qatar/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_BeefTallowMixture.png",
+    "details": {
+      "folder": "Favors/Quantum/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_bloodshotEye.png",
+    "details": {
+      "folder": "Favors/Spring/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_bbqInvitation.png",
+    "details": {
+      "folder": "Favors/Summer/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_ShatteredBottle.png",
+    "details": {
+      "folder": "Favors/Ukraine/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_alienFlora.png",
+    "details": {
+      "folder": "Favors/Umbra/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_marysLetter.png",
+    "details": {
+      "folder": "Favors/Wales/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_airlockDoors.png",
+    "details": {
+      "folder": "Favors/Wormhole/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_bloodiedBlueprint.png",
+    "details": {
+      "folder": "Favors/Yemen/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_tornBlueprint.png",
+    "details": {
+      "folder": "Favors/Yemen/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_annotatedBlueprint.png",
+    "details": {
+      "folder": "Favors/Yemen/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_vigosBlueprint.png",
+    "details": {
+      "folder": "Favors/Yemen/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_wardSacrificial.png",
+    "details": {
+      "folder": "Favors/Yemen/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_shreddedPlate.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_macMillanLedgerPage.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_fumingCordage.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_sacrificialWard.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_lunacyTicket.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_paintedRiverRock.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_harvestFestivalLeaflet.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_WoodenChalice.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_BlackTea.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_emergencyCertificate.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_cattleTag28.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconFavors_virginiaPlate.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_cypressMementoMori.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_ClayDoll.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_pElliottLunacyTicket.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_BlankPostcard.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_fumingWelcomeSign.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_signedLedgerPage.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_decrepitClapboard.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_MilkTea.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_cattleTag81.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_childrensBook.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_crescentMoonBouquet.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_CeramicChalice.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_quarterMoonBouquet.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_psychiatricAssessmentReport.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "unknown_QuestionMark.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconFavors_ThornDoll.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_shatteredBottle.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_macMillansPhalanxBone.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_CopperChalice.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_BurdockTea.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_yamaokaFamilyCrest.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_ivoryMementoMori.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_ichorousLoam.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_beefTallowMixture.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_CrumpledPostcard.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_rpdBadge.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconFavors_StampedPostcard.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_BoneDoll.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_LotusLeafTea.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_BloodstoneChalice.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_fullMoonBouquet.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_vigosJarOfSaltyLips.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_whiteWard.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_blackWard.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconFavors_newMoonBouquet.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconFavors_blackSplinter.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconFavors_FleshDoll.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconFavors_boneSplinter.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconFavors_smokingSplinter.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconFavors_glassSplinter.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconFavors_LoversPostcard.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconFavors_shockSplinter.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconFavors_ebonyMementoMori.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconFavors_muddySplinter.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "iconFavors_frightfulFlan.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_redEnvelope.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_ghastlyGateau.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_sacrificialCake.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_screechCobbler.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_cursedSeed.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_arcaneDousingRod.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconFavors_terrormisu.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconsFavors_9thAnniversary.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "event"
+    }
+  }
+]
