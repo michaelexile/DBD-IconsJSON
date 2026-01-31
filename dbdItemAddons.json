@@ -6907,5 +6907,54 @@
       "folder": "ItemAddons/",
       "rarity": "event"
     }
+  },
+  {
+    "name": "iconAddon_BeadMaze.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconAddon_BloodyRollerSkate.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_ClockHands.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "iconAddon_ElectrodeCap.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconAddon_BlackWidowSpider.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_BrokenSkateboard.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconAddon_ChessPiece.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
   }
 ]
