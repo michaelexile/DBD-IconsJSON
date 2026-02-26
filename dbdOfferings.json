@@ -1139,5 +1139,12 @@
       "folder": "Favors/",
       "rarity": "event"
     }
+  },
+  {
+    "name": "iconsFavors_vipWristband.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "rare"
+    }
   }
 ]
