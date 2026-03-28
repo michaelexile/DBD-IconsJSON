@@ -1146,5 +1146,12 @@
       "folder": "Favors/",
       "rarity": "rare"
     }
+  },
+  {
+    "name": "iconsFavors_shroudOfVanishing.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "uncommon"
+    }
   }
 ]
