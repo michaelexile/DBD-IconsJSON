@@ -20,8 +20,8 @@ jobs:
         with:
           bun-version: latest
 
-      - name: Run DBD Wiki Sync script
-        run: bun run scripts/dbd-wiki-sync.ts
+      - name: Run DBD Zip Sync script
+        run: bun run scripts/dbd-zip-sync.ts
 
       - name: Commit and Push changes
         run: |
