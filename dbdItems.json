@@ -1,65 +1,9 @@
 [
   {
-    "name": "iconItems_toolboxWornOut.png",
+    "name": "iconItems_bloodMap.png",
     "details": {
-      "folder": "Items/",
-      "rarity": "common"
-    }
-  },
-  {
-    "name": "iconItems_rundownAidKit.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "common"
-    }
-  },
-  {
-    "name": "iconItems_chineseFirecracker.png",
-    "details": {
-      "folder": "Items/",
+      "folder": "Items/Spring/",
       "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_firstAidKit.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "uncommon"
-    }
-  },
-  {
-    "name": "iconItems_flashlight.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "uncommon"
-    }
-  },
-  {
-    "name": "iconItems_toolbox.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "uncommon"
-    }
-  },
-  {
-    "name": "iconItems_toolboxCommodious.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_flashlightSport.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_map.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "uncommon"
     }
   },
   {
@@ -70,38 +14,17 @@
     }
   },
   {
-    "name": "iconItems_toolboxMechanics.png",
+    "name": "iconItems_calamariSmokeBomb.png",
     "details": {
-      "folder": "Items/",
-      "rarity": "rare"
+      "folder": "Items/Modifier/",
+      "rarity": "limited"
     }
   },
   {
-    "name": "iconItems_medkit.png",
+    "name": "iconItems_chineseFirecracker.png",
     "details": {
       "folder": "Items/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_toolboxAlexs.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "very_rare"
-    }
-  },
-  {
-    "name": "iconItems_rangersAidKit.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "very_rare"
-    }
-  },
-  {
-    "name": "iconItems_flashlightUtility.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "very_rare"
+      "rarity": "common"
     }
   },
   {
@@ -112,24 +35,24 @@
     }
   },
   {
-    "name": "iconItems_toolboxEngineers.png",
+    "name": "iconItems_fireflyLantern.png",
     "details": {
-      "folder": "Items/",
-      "rarity": "very_rare"
+      "folder": "Items/Modifier/",
+      "rarity": "limited"
     }
   },
   {
-    "name": "iconItems_key.png",
+    "name": "iconItems_firstAidKit.png",
     "details": {
       "folder": "Items/",
-      "rarity": "rare"
+      "rarity": "common"
     }
   },
   {
-    "name": "iconItems_rainbowMap.png",
+    "name": "iconItems_flashbangGrenade.png",
     "details": {
-      "folder": "Items/",
-      "rarity": "rare"
+      "folder": "Items/Limited/",
+      "rarity": "common"
     }
   },
   {
@@ -147,6 +70,125 @@
     }
   },
   {
+    "name": "iconItems_flashlight.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_flashlightHalloween.png",
+    "details": {
+      "folder": "Items/Halloween/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_flashlightSport.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconItems_flashlightUtility.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconItems_key.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_Keycard.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "limited"
+    }
+  },
+  {
+    "name": "iconItems_LimitedEMP.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_LimitedFragileMirror.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_LimitedItemVaccine.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_LimitedLamentConfiguration.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_LimitedRepairedMirror.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_LimitedStabilizingSpray.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_LimitedTurret.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_LimitedVecnaEye.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "limited"
+    }
+  },
+  {
+    "name": "iconItems_LimitedVecnaHand.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "limited"
+    }
+  },
+  {
+    "name": "iconItems_LimitedVhsTape.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_map.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "common"
+    }
+  },
+  {
     "name": "iconItems_medkit_anniversary2020.png",
     "details": {
       "folder": "Items/Anniversary/",
@@ -161,10 +203,52 @@
     }
   },
   {
+    "name": "iconItems_medkit.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconItems_medkitHalloween.png",
+    "details": {
+      "folder": "Items/Halloween/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_modifierLantern.png",
+    "details": {
+      "folder": "Items/Modifier/",
+      "rarity": "limited"
+    }
+  },
+  {
     "name": "iconItems_partyPopper.png",
     "details": {
       "folder": "Items/Anniversary/",
       "rarity": "event"
+    }
+  },
+  {
+    "name": "iconItems_rainbowMap.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_rangersAidKit.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "iconItems_rundownAidKit.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "common"
     }
   },
   {
@@ -182,24 +266,31 @@
     }
   },
   {
-    "name": "iconItems_flashlightHalloween.png",
+    "name": "iconItems_toolbox.png",
     "details": {
-      "folder": "Items/Halloween/",
-      "rarity": "event"
+      "folder": "Items/",
+      "rarity": "common"
     }
   },
   {
-    "name": "iconItems_medkitHalloween.png",
+    "name": "iconItems_toolboxAlexs.png",
     "details": {
-      "folder": "Items/Halloween/",
-      "rarity": "event"
+      "folder": "Items/",
+      "rarity": "very_rare"
     }
   },
   {
-    "name": "iconItems_voidCrystal.png",
+    "name": "iconItems_toolboxCommodious.png",
     "details": {
-      "folder": "Items/Halloween/",
-      "rarity": "event"
+      "folder": "Items/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "iconItems_toolboxEngineers.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "very_rare"
     }
   },
   {
@@ -210,17 +301,24 @@
     }
   },
   {
-    "name": "iconItems_fireflyLantern.png",
+    "name": "iconItems_toolboxMechanics.png",
     "details": {
-      "folder": "Items/Modifier/",
-      "rarity": "event"
+      "folder": "Items/",
+      "rarity": "rare"
     }
   },
   {
-    "name": "iconItems_bloodMap.png",
+    "name": "iconItems_toolboxWornOut.png",
     "details": {
-      "folder": "Items/Spring/",
-      "rarity": "event"
+      "folder": "Items/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "iconItems_voidCrystal.png",
+    "details": {
+      "folder": "Items/Halloween/",
+      "rarity": "limited"
     }
   },
   {
@@ -228,6 +326,62 @@
     "details": {
       "folder": "Items/WinterEvent/",
       "rarity": "event"
+    }
+  },
+  {
+    "name": "T_UI_hud_umg_survivorMagicItems_Boots.png",
+    "details": {
+      "folder": "Items/MagicItems/Churros/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_hud_umg_survivorMagicItems_Bracers.png",
+    "details": {
+      "folder": "Items/MagicItems/Churros/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_hud_umg_survivorMagicItems_DispellingSphere.png",
+    "details": {
+      "folder": "Items/MagicItems/Churros/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_hud_umg_survivorMagicItems_FlightoftheDamned.png",
+    "details": {
+      "folder": "Items/MagicItems/Churros/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_hud_umg_survivorMagicItems_Fly.png",
+    "details": {
+      "folder": "Items/MagicItems/Churros/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_hud_umg_survivorMagicItems_MageHand.png",
+    "details": {
+      "folder": "Items/MagicItems/Churros/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_hud_umg_survivorMagicItems_VecnaEye.png",
+    "details": {
+      "folder": "Items/MagicItems/Churros/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "T_UI_hud_umg_survivorMagicItems_VecnaHand.png",
+    "details": {
+      "folder": "Items/MagicItems/Churros/",
+      "rarity": "common"
     }
   },
   {
@@ -252,199 +406,24 @@
     }
   },
   {
+    "name": "T_UI_iconItems_LimitedJerryCan.png",
+    "details": {
+      "folder": "Items/Spring/",
+      "rarity": "limited"
+    }
+  },
+  {
+    "name": "T_UI_iconItems_LimitedMushroom.png",
+    "details": {
+      "folder": "Items/Limited/",
+      "rarity": "common"
+    }
+  },
+  {
     "name": "T_UI_iconItems_vigosFogVial.png",
     "details": {
       "folder": "Items/",
       "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_campingAidKit.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "common"
-    }
-  },
-  {
-    "name": "iconItems_wornOutTools.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "common"
-    }
-  },
-  {
-    "name": "iconItems_bloodsenseMap.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_apprenticesFogVial.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "common"
-    }
-  },
-  {
-    "name": "iconItems_CrypticMap.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "common"
-    }
-  },
-  {
-    "name": "iconItems_artisansFogVial.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "uncommon"
-    }
-  },
-  {
-    "name": "iconItems_mechanicsToolbox.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_skeletonKey.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_sportFlashlight.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_emergencyMedKit.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_commodiousToolbox.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_vigosFogVial.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_utilityFlashlight.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "very_rare"
-    }
-  },
-  {
-    "name": "iconItems_alexsToolbox.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "very_rare"
-    }
-  },
-  {
-    "name": "iconItems_engineersToolbox.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "very_rare"
-    }
-  },
-  {
-    "name": "iconItems_rangerMedKit.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "very_rare"
-    }
-  },
-  {
-    "name": "iconItems_winterPartyStarter.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_masqueradeToolbox.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_willOWisp.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_masqueradeFlashlight.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_anniversaryMedKit.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_anniversaryFlashlight.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_anniversaryToolbox.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_allHallowsEveLunchbox.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_festiveToolbox.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_masqueradeMedKit.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconItems_thirdYearPartyStarter.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "event"
     }
   }
 ]
