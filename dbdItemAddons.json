@@ -6956,5 +6956,54 @@
       "folder": "ItemAddons/",
       "rarity": "visceral"
     }
+  },
+  {
+    "name": "t_UI_iconAddon_BentWheel.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "common"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_BloodySmile.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_BloodyMagazine.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_BurntFuse.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_DeputysBadge.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_DirtyMoney.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_IridescentBoatMotor.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
   }
 ]
