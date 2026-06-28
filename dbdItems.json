@@ -446,5 +446,26 @@
       "folder": "Items/",
       "rarity": "event"
     }
+  },
+  {
+    "name": "t_UI_iconItems_flashlight_anniversary2026.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "t_UI_iconItems_medkit_anniversary2026.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "t_UI_iconItems_toolbox_anniversary2026.png",
+    "details": {
+      "folder": "Items/",
+      "rarity": "event"
+    }
   }
 ]

@@ -1153,5 +1153,12 @@
       "folder": "Favors/",
       "rarity": "uncommon"
     }
+  },
+  {
+    "name": "iconsFavors_10thAnniversary.png",
+    "details": {
+      "folder": "Favors/",
+      "rarity": "event"
+    }
   }
 ]
