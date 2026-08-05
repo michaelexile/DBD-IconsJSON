@@ -7005,5 +7005,40 @@
       "folder": "ItemAddons/",
       "rarity": "visceral"
     }
+  },
+  {
+    "name": "t_UI_iconAddon_AurorasTelereceptor.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "uncommon"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_BlindfoldOfTheDevoted.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_ConfessorsWarHorn.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_ChainsOfTheHeretic.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_CrownOfTheDestroyer.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "visceral"
+    }
   }
 ]
