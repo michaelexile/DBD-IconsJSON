@@ -7038,7 +7038,14 @@
     "name": "t_UI_iconAddon_CrownOfTheDestroyer.png",
     "details": {
       "folder": "ItemAddons/",
-      "rarity": "visceral"
+      "rarity": "very_rare"
+    }
+  },
+  {
+    "name": "t_UI_iconAddon_ElectricTorch.png",
+    "details": {
+      "folder": "ItemAddons/",
+      "rarity": "rare"
     }
   }
 ]
