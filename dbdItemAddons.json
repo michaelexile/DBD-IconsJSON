@@ -6674,7 +6674,7 @@
     "name": "T_UI_iconAddon_ConfessorsWarHorn.png",
     "details": {
       "folder": "ItemAddons/Udon/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
@@ -6863,7 +6863,7 @@
     "name": "T_UI_iconAddon_ObsidianFeather.png",
     "details": {
       "folder": "ItemAddons/Udon/",
-      "rarity": "very_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -6877,7 +6877,7 @@
     "name": "T_UI_iconAddon_MarkOfTheAdherent.png",
     "details": {
       "folder": "ItemAddons/Udon/",
-      "rarity": "rare"
+      "rarity": "uncommon"
     }
   },
   {
@@ -7073,7 +7073,7 @@
     "name": "T_UI_iconAddon_Mid-CenturyRadio.png",
     "details": {
       "folder": "ItemAddons/Poutine/",
-      "rarity": "uncommon"
+      "rarity": "common"
     }
   },
   {
