@@ -280,27 +280,6 @@
     }
   },
   {
-    "name": "iconItems_apprenticesFogVial.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "common"
-    }
-  },
-  {
-    "name": "iconItems_CrypticMap.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "common"
-    }
-  },
-  {
-    "name": "iconItems_artisansFogVial.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "uncommon"
-    }
-  },
-  {
     "name": "iconItems_mechanicsToolbox.png",
     "details": {
       "folder": "Items/",
@@ -330,13 +309,6 @@
   },
   {
     "name": "iconItems_commodiousToolbox.png",
-    "details": {
-      "folder": "Items/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconItems_vigosFogVial.png",
     "details": {
       "folder": "Items/",
       "rarity": "rare"
@@ -448,23 +420,30 @@
     }
   },
   {
-    "name": "t_UI_iconItems_flashlight_anniversary2026.png",
+    "name": "T_UI_iconItems_flashlight_anniversary2026.png",
     "details": {
-      "folder": "Items/",
+      "folder": "Items/Anniversary/",
       "rarity": "event"
     }
   },
   {
-    "name": "t_UI_iconItems_medkit_anniversary2026.png",
+    "name": "T_UI_iconItems_medkit_anniversary2026.png",
     "details": {
-      "folder": "Items/",
+      "folder": "Items/Anniversary/",
       "rarity": "event"
     }
   },
   {
-    "name": "t_UI_iconItems_toolbox_anniversary2026.png",
+    "name": "T_UI_iconItems_toolbox_anniversary2026.png",
     "details": {
-      "folder": "Items/",
+      "folder": "Items/Anniversary/",
+      "rarity": "event"
+    }
+  },
+  {
+    "name": "T_UI_iconItems_poison_anniversary2026.png",
+    "details": {
+      "folder": "Items/Anniversary/",
       "rarity": "event"
     }
   }

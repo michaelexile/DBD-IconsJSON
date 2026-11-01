@@ -402,7 +402,7 @@
     "name": "iconFavors_momentoMoriEbony.png",
     "details": {
       "folder": "Favors/",
-      "rarity": "ultra_rare"
+      "rarity": "visceral"
     }
   },
   {
@@ -882,13 +882,6 @@
     }
   },
   {
-    "name": "iconFavors_shatteredBottle.png",
-    "details": {
-      "folder": "Favors/",
-      "rarity": "rare"
-    }
-  },
-  {
     "name": "iconFavors_macMillansPhalanxBone.png",
     "details": {
       "folder": "Favors/",
@@ -924,28 +917,7 @@
     }
   },
   {
-    "name": "iconFavors_ichorousLoam.png",
-    "details": {
-      "folder": "Favors/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconFavors_beefTallowMixture.png",
-    "details": {
-      "folder": "Favors/",
-      "rarity": "rare"
-    }
-  },
-  {
     "name": "iconFavors_CrumpledPostcard.png",
-    "details": {
-      "folder": "Favors/",
-      "rarity": "rare"
-    }
-  },
-  {
-    "name": "iconFavors_rpdBadge.png",
     "details": {
       "folder": "Favors/",
       "rarity": "rare"
@@ -1113,13 +1085,6 @@
     }
   },
   {
-    "name": "iconFavors_cursedSeed.png",
-    "details": {
-      "folder": "Favors/",
-      "rarity": "event"
-    }
-  },
-  {
     "name": "iconFavors_arcaneDousingRod.png",
     "details": {
       "folder": "Favors/",
@@ -1134,30 +1099,16 @@
     }
   },
   {
-    "name": "iconsFavors_9thAnniversary.png",
+    "name": "T_UI_iconsFavors_vipWristband.png",
     "details": {
-      "folder": "Favors/",
-      "rarity": "event"
-    }
-  },
-  {
-    "name": "iconsFavors_vipWristband.png",
-    "details": {
-      "folder": "Favors/",
+      "folder": "Favors/Quiche/",
       "rarity": "rare"
     }
   },
   {
-    "name": "iconsFavors_shroudOfVanishing.png",
+    "name": "T_UI_iconsFavors_10thAnniversary.png",
     "details": {
-      "folder": "Favors/",
-      "rarity": "uncommon"
-    }
-  },
-  {
-    "name": "iconsFavors_10thAnniversary.png",
-    "details": {
-      "folder": "Favors/",
+      "folder": "Favors/Anniversary/",
       "rarity": "event"
     }
   }
